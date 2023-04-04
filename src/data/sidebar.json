@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Home",
+        "icon": "bi-house-fill"
+    },
+    {
+        "title": "Vicunculación",
+        "icon": "bi-link",
+        "childrens": [
+            {
+                "title": "Bolsa de trabajo",
+                "path": "/bolsa",
+                "icon": "bi-briefcase-fill"
+            },
+            {
+                "title": "Internacionalización",
+                "path": "/inter",
+                "icon": "bi-globe"
+            },
+            {
+                "title": "Prensa y difusión",
+                "path": "/prensa",
+                "icon": "bi-bookmark-check"
+            }
+        ]
+    },
+    {
+        "title": "Encuestas",
+        "icon": "bi-clipboard-plus-fill"
+    },
+    {
+        "title": "Reportes",
+        "icon": "bi-clipboard2-data-fill"
+    },
+    {
+        "title": "Egresados",
+        "icon": "bi-stack"
+    },
+    {
+        "title": "Perfil",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Configuración",
+                "path": "/configuracion",
+                "icon": "bi-gear"
+            },
+            {
+                "title": "Cerrar sesión",
+                "path": "/home",
+                "icon": "bi-box-arrow-left"
+            }
+        ]
+    }
+]
